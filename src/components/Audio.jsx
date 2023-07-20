@@ -9,7 +9,7 @@ function Audio1 ({word}){
 
 
     const getWordAudio = async () => {
-        const apiKey = 'e5bcc563-1df8-4c2a-a49a-6efdd6b7f50d';
+        const apiKey = '%';
         const endpoint = `https://www.dictionaryapi.com/api/v3/references/collegiate/json/${word}?key=${apiKey}`;
 
         try {
