@@ -21,7 +21,7 @@ export default function(){
     
 
     function imagesList(){
-        return fetch (`https://api.unsplash.com/search/photos/?client_id=H965350MeHcDmiwVl8Jove4My6JdheMYG5KkXccEfKE&query=${value}&per_page=12`) 
+        return fetch (`https://api.unsplash.com/search/photos/?client_id=%&query=${value}&per_page=12`) 
         .then(response => response.json())
 
     } 
