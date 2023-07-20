@@ -67,4 +67,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
+Задеплоить  на firebase
+    npm run
+    npm build
+    firebase projects:list
+    firebase use chat-app-2a150
+
+    firebase login
+    firebase logout
+    firebase init
+    firebase deploy
+
+    заменить https  и домен
+     npm build
+    firebase deploy
+
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

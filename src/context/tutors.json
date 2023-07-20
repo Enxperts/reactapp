@@ -1,0 +1,182 @@
+[   
+    {
+        "id": 1,
+        "photo": "/imagesPublic/AnastasiaWeb.png",
+        "name": "Anastasia",
+        "courseIds": [1,2],
+        "excludeDates": ["18.04.2023", "28.04.2023"],
+        "about": "Anastasia is an outstanding translator, TV presenter, and a talented teacher with two higher education degrees and a CELTA diploma.",
+        "features": "text",
+        "slides": [
+            {
+                "image": "/imagesPublic/leroi11.jpg",
+                "description":"Legend 11 Legend 11 Legend 11 Legend 11"  
+            },
+            {
+                "image":  "/imagesPublic/leroi22.png",
+                "description":"Legend 22"  
+            },
+            {
+                "image":  "/imagesPublic/leroi33.png",
+                "description":"Legend 33"  
+            },
+            {
+                "image":  "/imagesPublic/leroi44.png",
+                "description":"Legend 44"  
+            }
+        ],
+        "bonus": "text"
+    },
+   
+
+    {
+
+        "id": 2,
+        "photo": "/imagesPublic/LeroiWeb.png",
+        "name": " Leroi ",
+        "courseIds": [1,3],
+        "excludeDates": ["15.04.2023", "25.04.2023"],
+        "about": "Leroi is a native speaker from London and co-founder of Enxperts. He has been teaching English for over 15 years.",
+        "features": "text",
+        "slides": [
+            {
+                "image": "/imagesPublic/leroi11.jpg",
+                "description":"Legend 11 Legend 11 Legend 11 Legend 11"  
+            },
+            {
+                "image":  "/imagesPublic/leroi22.png",
+                "description":"Legend 22"  
+            },
+            {
+                "image":  "/imagesPublic/leroi33.png",
+                "description":"Legend 33"  
+            },
+            {
+                "image":  "/imagesPublic/leroi44.png",
+                "description":"Legend 44"  
+            }
+        ],
+        "bonus": "text"
+    },
+    
+    {
+        "id": 3,
+        "photo": "/imagesPublic/PatriciaWeb.png",
+        "name": " Patricia ",
+        "courseIds": [4],
+        "excludeDates": ["21.04.2023", "23.04.2023"],
+        "about": "Patricia is a certified English teaching specialist with a Cambridge English CELTA certification. She has taught over 1500 lessons to engineers from IT companies and currently holds online lessons.",
+        "features": "text",
+        "slides": [
+            {
+                "image": "/imagesPublic/leroi11.jpg",
+                "description":"Legend 11 Legend 11 Legend 11 Legend 11"  
+            },
+            {
+                "image":  "/imagesPublic/leroi22.png",
+                "description":"Legend 22"  
+            },
+            {
+                "image":  "/imagesPublic/leroi33.png",
+                "description":"Legend 33"  
+            },
+            {
+                "image":  "/imagesPublic/leroi44.png",
+                "description":"Legend 44"  
+            }
+        ],
+        "bonus": "text"
+    },
+
+    {
+        "id": 4,
+        "photo": "/imagesPublic/BenjaminWeb.png",
+        "name": "Benjamin",
+        "courseIds": [5],
+        "excludeDates": ["25.04.2023", "26.04.2023"],
+        "about": "Ben is a professional English teacher from the UK who has traveled to every continent and understands the challenges of learning a new language. He believes in making his lessons fun.",
+        "features": "text",
+        "slides": [
+            {
+                "image": "/imagesPublic/leroi11.jpg",
+                "description":"Legend 11 Legend 11 Legend 11 Legend 11"  
+            },
+            {
+                "image":  "/imagesPublic/leroi22.png",
+                "description":"Legend 22"  
+            },
+            {
+                "image":  "/imagesPublic/leroi33.png",
+                "description":"Legend 33"  
+            },
+            {
+                "image":  "/imagesPublic/leroi44.png",
+                "description":"Legend 44"  
+            }
+        ],
+        "bonus": "text"
+    
+    },
+
+    {
+        "id": 5,
+        "photo": "/imagesPublic/GeraldWeb.png",
+        "name": " Gerald ",
+        "courseIds": [6],
+        "excludeDates": ["21.04.2023", "23.04.2023"],
+        "about": "Gerald is a nomadic photographer who helps create English lessons from time to time. While he doesn't have formal marketing experience, he has a high school diploma and has posted photos on his Instagram.",
+        "features": "text",
+        "slides": [
+            {
+                "image": "/imagesPublic/leroi11.jpg",
+                "description":"Legend 11 Legend 11 Legend 11 Legend 11"  
+            },
+            {
+                "image":  "/imagesPublic/leroi22.png",
+                "description":"Legend 22"  
+            },
+            {
+                "image":  "/imagesPublic/leroi33.png",
+                "description":"Legend 33"  
+            },
+            {
+                "image":  "/imagesPublic/leroi44.png",
+                "description":"Legend 44"  
+            }
+        ],
+        "bonus": "text"
+    },
+    {
+        "id": 6,
+        "photo": "/imagesPublic/OlegWeb.png",
+        "name": " Oleg ",
+        "courseIds": [6],
+        "excludeDates": ["21.04.2023", "23.04.2023"],
+        "about": "Oleg is the founder of Enxperts and has a higher psychological and pedagogical education from Moscow State Pedagogical University. He holds a CELTA Cambridge certificate and has 7 years of corporate.",
+        "features": "text",
+        "slides": [
+            {
+                "image": "/imagesPublic/leroi11.jpg",
+                "description":"Legend 11 Legend 11 Legend 11 Legend 11"  
+            },
+            {
+                "image":  "/imagesPublic/leroi22.png",
+                "description":"Legend 22"  
+            },
+            {
+                "image":  "/imagesPublic/leroi33.png",
+                "description":"Legend 33"  
+            },
+            {
+                "image":  "/imagesPublic/leroi44.png",
+                "description":"Legend 44"  
+            }
+        ],
+        "bonus": "text"
+    }
+    
+
+
+
+
+]

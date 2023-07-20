@@ -1,0 +1,61 @@
+
+.videos__page{
+    width: 800px;
+}
+
+.video__selected{
+    width:352px;
+
+}
+
+.videos{
+    display: flex;
+    align-items: start;
+
+}
+
+.video__wrapper{
+
+    width: 130px;
+    height: 130px;
+    margin: 5px 5px 0px 0;
+    display: inline-block;
+    /* background-size: contain; */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+    border-radius: 2px;
+    
+
+}
+
+.videos__founded{
+    width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+}
+
+.video__displayed{
+    height: 202px;
+}
+
+.gptquestions__displayed{
+    border: 1px solid black;
+    min-height: 203px;
+}
+
+/* .videos__selected{
+    height: 548px;
+    overflow:scroll;
+    border: 1px solid transparent;
+} */
+
+.loading{
+    background-image: url(../images/loader_gif.gif);
+    min-height: 203px;
+    /* outline: 1px solid ; */
+    background-repeat: no-repeat;
+    background-position: center;
+}

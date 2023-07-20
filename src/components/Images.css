@@ -1,0 +1,80 @@
+.images{
+    display: flex;
+    align-items: start;
+
+}
+
+.tickShowWord{
+    font-size: 13.3px;
+}
+
+.inputSearchWord{
+    font-size: 13.3px;
+}
+
+.btnSearchWord{
+    font-size: 13.3px;
+}
+
+
+.image__wrapper{
+
+    width: 130px;
+    height: 130px;
+    margin: 5px 5px 0px 0;
+    display: inline-block;
+    /* background-size: contain; */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+    border-radius: 2px;
+    
+
+}
+
+.image__img{
+    height: 100px;
+    display: inline-block;
+    margin: auto;
+    
+}
+
+.images__founded{
+    width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+}
+
+.images__word{
+    border: none;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.images__word-position{
+    /* margin: auto; */
+    word-wrap: break-word;
+    width: 100%;
+}
+
+.images__selected{
+    height: 548px;
+    overflow:scroll;
+    border: 1px solid transparent;
+}
+
+.images__selected--scroll:hover {
+    border: 1px solid black;
+    border-radius: 1px;
+
+
+}
+
+
+.images__selected-both{
+    display: flex;
+}

@@ -1,0 +1,121 @@
+.tutor-card___colums{
+    display: flex;
+   
+}
+
+.tutor-card{
+    border: 1px solid #00cfff;
+    border-radius: 15px;
+    padding: 25px;
+    
+}
+
+.tutor-card___avatar{
+    border: 1px solid #00cfff;
+    border-radius: 15px 0px 0px 0px;
+    box-sizing: border-box;
+    width: 20%;
+    margin-right: 5px;
+    height: 120px;
+    display: flex ;
+    flex-direction: column;
+
+      
+}
+
+.tutor-card___image{
+    width: 90%;
+    
+    margin:auto;
+    display: block;
+}
+
+
+
+.tutor-card___about{
+    border: 1px solid #00cfff;
+    border-radius: 0px 15px 0px 0px;;
+    box-sizing: border-box;
+    width: 80%;
+    padding : 10px;
+    
+}
+
+.tutor-card___features{
+    border: 1px solid #00cfff;
+    border-radius: 0px 0px 0px 0px;
+    box-sizing: border-box;
+    width: 100%;
+    height: 40px;
+
+    justify-content:space-around;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.tutor-card___gallery{
+    border: 1px solid #00cfff;
+    border-radius: 0px 0px 15px 15px;
+    margin-top: 5px;
+    height: 300px;
+}
+
+.gallery___slide{
+    height: 300px;
+    background-repeat: no-repeat;
+    /* cover */
+    background-size: contain; 
+    background-position: center center;
+    display: block;
+    display: flex;
+    
+}
+
+.gallery___description{
+
+    background: rgba(0,0,0,0.4);
+    color: white;
+    margin: 245px auto 0;
+    height: 25px;
+    padding: 0 5px;
+
+
+}
+
+.control-arrow{
+    opacity: 1 !important;
+    background: rgba(0,0,0,0.2) !important; 
+    border-radius: 0px 0px 15px 15px;
+}
+
+
+
+.control-arrow:hover{
+  
+    background: rgba(0,0,0,0.5) !important; 
+    }
+
+.tutor-card___bonus{
+    border: 1px solid #00cfff;
+    border-radius: 0px 0px 0px 15px;
+    box-sizing: border-box;
+    width: 70%;
+    margin-right: 5px;
+    margin-top: 5px;
+    height: 120px;
+
+
+}
+
+.tutor-card___courses{
+    border: 1px solid #00cfff;
+    border-radius: 0px 0px 15px 0px;
+    box-sizing: border-box;
+    width: 30%;
+    margin-top: 5px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

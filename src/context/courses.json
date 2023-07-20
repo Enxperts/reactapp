@@ -1,0 +1,40 @@
+[
+
+    {   
+        "id": 1,
+        "name": "Job Interview",
+        "description": "Get a job",
+        "content": "https://www.youtube.com/embed/6wbRJRgIj50"
+    },
+    {   
+        "id": 2,
+        "name": "Grammar",
+        "description": "Basic Knowledge",
+        "content": "https://www.youtube.com/embed/ZmxXh9gd2Jw"
+    },
+    {   
+        "id": 3,
+        "name": "Exam Preparation",
+        "description": "IELTS or TOEFL",
+        "content": "https://www.youtube.com/embed/xYiBYNHMpEs" 
+    },
+    {   
+        "id": 4,
+        "name": "Individually",
+        "description": "Intensive Studies",
+        "content": "https://www.youtube.com/embed/pYoYdmZnzi4" 
+    },
+    {   
+        "id": 5,
+        "name": "Poetry Based",
+        "description": "Discuss famous works",
+        "content": "https://www.youtube.com/embed/Dqb-l5NuTsg" 
+    },
+    {   
+        "id": 6,
+        "name": "Anki Grammar",
+        "description": "Flashcards and live show",
+        "content": "https://www.youtube.com/embed/f-bg9tek0T4"
+    }
+
+]

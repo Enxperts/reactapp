@@ -1,0 +1,26 @@
+.audio--loading{
+    /* opacity: 0.5; */
+    background-image: url("../images/loader_gif.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    color: rgb(0, 0, 0, .3);
+    border: none;
+}
+
+.audio{
+    padding: 0;
+    line-height: 1;
+}
+
+.play-icon { 
+    font-size: 1rem; /* Adjust the size as needed */
+    color: blue;
+  }
+
+/* .audio:hover {
+
+  background-color: #e0e0e0; 
+  color: #000; 
+  cursor: pointer; 
+} */

@@ -1,0 +1,27 @@
+.react-datepicker-wrapper{
+    width: auto;
+}
+
+
+
+.trial{
+    border: 1px solid #00cfff;
+    border-radius: 15px;
+    padding: 25px;
+    height: 470px;
+    
+}
+
+.trial___colums{
+    display: flex;
+}
+
+
+.trial___form{
+    list-style: none;
+}
+
+
+
+
+
