@@ -7,7 +7,7 @@ console.log(2, window.gapi);
 
 
 
-const apiKey = 'AIzaSyBwxplREd3OVqnJg_mnaw6V0R7SV7skLOo';
+const apiKey = '%';
 async function searchVideos(query) {
   try {
     const response = await axios.get('https://www.googleapis.com/youtube/v3/search', {
@@ -63,7 +63,7 @@ export default function(){
         }, {
           headers: {
             "Content-Type": "application/json",
-            "Authorization": "Bearer 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",
+            "Authorization": "Bearer %",
           },
         });
         
@@ -97,7 +97,7 @@ export default function(){
 
       setCaptionQuestions([])
       setLoading("loading")
-      const responseCaptions = await axios.get(`http://94.158.219.145:8080/api/subtitles/${videoFounded.id.videoId}`)
+      const responseCaptions = await axios.get(`http://%/${videoFounded.id.videoId}`)
       gptrequest(`Please analyze the text subtitles of the video and make 5 questions to the content: ${responseCaptions.data.data}`);
 
       console.log(responseCaptions);
